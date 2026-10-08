@@ -13,7 +13,7 @@
 //#define _UNICODE
 
 #include <windows.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 #include "shlobj.h"
 
 #define TYPE_FILE              TEXT("file")
